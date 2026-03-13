@@ -1,4 +1,6 @@
 Petrolbenzin petrol şirketlerinin stok durumunu takip eden kar-zarar durumlarını inceleyen aynı zamanda satış işlemlerinin proje üzerinden yapılmasını sağlayan bir projedir
+
+
 [EN] 
 
 
